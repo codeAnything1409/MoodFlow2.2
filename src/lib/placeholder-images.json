@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "study-1",
+      "description": "A person studying at a desk with books and a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1646032539375-2ecd919356ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkZXNrJTIwYm9va3N8ZW58MHx8fHwxNzY4MTQ4Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desk books"
+    },
+    {
+      "id": "study-2",
+      "description": "A quiet library with shelves of books.",
+      "imageUrl": "https://images.unsplash.com/photo-1602722053020-af31042989d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsaWJyYXJ5JTIwYm9va3N8ZW58MHx8fHwxNzY4MDkzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library books"
+    },
+    {
+      "id": "motivation-1",
+      "description": "A person hiking up a mountain at sunrise.",
+      "imageUrl": "https://images.unsplash.com/photo-1547603857-f9b4e0ef3317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW91bnRhaW4lMjBzdW5yaXNlfGVufDB8fHx8MTc2ODEzNzIxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain sunrise"
+    },
+    {
+      "id": "motivation-2",
+      "description": "An athlete crossing a finish line.",
+      "imageUrl": "https://images.unsplash.com/photo-1560581550-c06eb514f654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cnVubmluZyUyMG1hcmF0aG9ufGVufDB8fHx8MTc2ODA5OTU1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "running marathon"
+    },
+    {
+      "id": "music-1",
+      "description": "A person wearing headphones, enjoying music.",
+      "imageUrl": "https://images.unsplash.com/photo-1633704685725-4c225ff0bd8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFkcGhvbmVzJTIwbXVzaWN8ZW58MHx8fHwxNzY4MTQ0MTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones music"
+    },
+    {
+      "id": "music-2",
+      "description": "A live concert with a band on stage.",
+      "imageUrl": "https://images.unsplash.com/photo-1684679493212-6adfaf58c388?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb25jZXJ0JTIwYmFuZHxlbnwwfHx8fDE3NjgwNjcwODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert band"
+    },
+    {
+      "id": "meditation-1",
+      "description": "A person meditating in a serene, natural setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1520769945061-0a448c463865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx5b2dhJTIwbmF0dXJlfGVufDB8fHx8MTc2ODA0Mzc4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga nature"
+    },
+    {
+      "id": "meditation-2",
+      "description": "A tranquil zen garden with raked sand and stones.",
+      "imageUrl": "https://images.unsplash.com/photo-1619441207978-3d326c46e2c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx6ZW4lMjBnYXJkZW58ZW58MHx8fHwxNzY4MDY5MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "zen garden"
+    },
+    {
+      "id": "entertainment-1",
+      "description": "A group of friends laughing and watching a movie.",
+      "imageUrl": "https://images.unsplash.com/photo-1595270470433-4e07a5f1217d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmllbmRzJTIwbW92aWV8ZW58MHx8fHwxNzY4MTQ4Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends movie"
+    },
+    {
+      "id": "entertainment-2",
+      "description": "A colorful abstract image representing fun and games.",
+      "imageUrl": "https://images.unsplash.com/photo-1541661538396-53ba2d051eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGNvbG9yc3xlbnwwfHx8fDE3NjgxMTgxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract colors"
+    },
+    {
+      "id": "entertainment-3",
+      "description": "A person playing a video game with a controller.",
+      "imageUrl": "https://images.unsplash.com/photo-1581351123004-757df051db2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aWRlbyUyMGdhbWV8ZW58MHx8fHwxNzY4MjM0NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video game"
+    }
+  ]
+}

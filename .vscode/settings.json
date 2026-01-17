@@ -1,0 +1,9 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.validProperties": ["composes"],
+  "scss.lint.unknownAtRules": "ignore",
+  "postcss.language-ids": ["css", "postcss"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "python.linting.enabled": false
+}
